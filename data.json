@@ -1,0 +1,495 @@
+{
+  "party": [
+    {
+      "pname": "bjp",
+      "id": 1
+    },
+    {
+      "pname": "congress",
+      "id": 2
+    },
+    {
+      "pname": "abvp",
+      "id": 3
+    },
+    {
+      "pname": "nsui",
+      "id": 4
+    },
+    {
+      "pname": "aryan",
+      "id": 5
+    },
+    {
+      "pname": "jai ho",
+      "id": 6
+    },
+    {
+      "pname": "bsp",
+      "id": 7
+    },
+    {
+      "pname": "ukd",
+      "id": 8
+    },
+    {
+      "pname": "aap",
+      "id": 9
+    }
+  ],
+  "voter": [
+    {
+      "vname": "ashu",
+      "email": "ashu32@gmail.com",
+      "pass": 3728,
+      "id": 1
+    },
+    {
+      "vname": "lucky",
+      "email": "lucky11@gmail.com",
+      "pass": 8215,
+      "id": 4
+    },
+    {
+      "name": "kvi",
+      "email": "kvi13@gmail.com",
+      "pass": 6509,
+      "id": 5
+    },
+    {
+      "name": "suraj",
+      "email": "suraj15@gmail.com",
+      "pass": 6965,
+      "id": 6
+    },
+    {
+      "name": "amit",
+      "email": "amit16@gmail.com",
+      "pass": 9287,
+      "id": 7
+    },
+    {
+      "name": "sumit",
+      "email": "sumit17@gmail.com",
+      "pass": 6763,
+      "id": 8
+    },
+    {
+      "name": "mohit",
+      "email": "mohit18@gmail.com",
+      "pass": 3828,
+      "id": 9
+    },
+    {
+      "name": "suyansh",
+      "email": "suyansh19@gmail.com",
+      "pass": 4610,
+      "id": 10
+    },
+    {
+      "name": "pramis",
+      "email": "pramis20@gmail.com",
+      "pass": 4125,
+      "id": 11
+    },
+    {
+      "name": "sudhu",
+      "email": "sudhu21@gmail.com",
+      "pass": 4554,
+      "id": 12
+    },
+    {
+      "name": "sanjay",
+      "email": "sanjay22@gmail.com",
+      "pass": 9798,
+      "id": 13
+    },
+    {
+      "name": "kajal",
+      "email": "kajal23@gmail.com",
+      "pass": 5141,
+      "id": 14
+    },
+    {
+      "name": "amisha",
+      "email": "amisha@gmail.com",
+      "pass": 2329,
+      "id": 15
+    },
+    {
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "pass": 7361,
+      "id": 16
+    },
+    {
+      "name": "mani",
+      "email": "mani@gmail.com",
+      "pass": 1172,
+      "id": 17
+    },
+    {
+      "name": "vikas",
+      "email": "vikas@gmail.com",
+      "pass": 5179,
+      "id": 18
+    },
+    {
+      "name": "himu",
+      "email": "himu@gmail.com",
+      "pass": 8869,
+      "id": 19
+    },
+    {
+      "name": "akki",
+      "email": "akki@gmail.com",
+      "pass": 1224,
+      "id": 20
+    },
+    {
+      "name": "mohan",
+      "email": "mohan25@gmail.com",
+      "pass": 3424,
+      "id": 21
+    },
+    {
+      "name": "sakshi",
+      "email": "sakshi@gmail.com",
+      "pass": 2310,
+      "id": 22
+    },
+    {
+      "name": "priya",
+      "email": "priya@gmail.com",
+      "pass": 1494,
+      "id": 23
+    },
+    {
+      "name": "kanchan",
+      "email": "kanchan@gmail.com",
+      "pass": 2319,
+      "id": 24
+    },
+    {
+      "name": "tanu",
+      "email": "tanu@gmail.com",
+      "pass": 4233,
+      "id": 25
+    },
+    {
+      "name": "golu",
+      "email": "gou@gmail.com",
+      "pass": 8057,
+      "id": 26
+    },
+    {
+      "name": "akanksha",
+      "email": "akanksha@gmail.com",
+      "pass": 5143,
+      "id": 27
+    },
+    {
+      "name": "sheela",
+      "email": "sheela@gmail.com",
+      "pass": 5806,
+      "id": 28
+    },
+    {
+      "name": "muni",
+      "email": "muni@gmail.com",
+      "pass": 8970,
+      "id": 29
+    },
+    {
+      "name": "saruli",
+      "email": "saruli@gmail.com",
+      "pass": 7811,
+      "id": 30
+    },
+    {
+      "name": "rachita",
+      "email": "rachita@gmail.com",
+      "pass": 4392,
+      "id": 31
+    },
+    {
+      "name": "rashmi",
+      "email": "rasmi@gmail.com",
+      "pass": 8585,
+      "id": 32
+    },
+    {
+      "name": "nishtha",
+      "email": "nishtha@gmail.com",
+      "pass": 2924,
+      "id": 33
+    },
+    {
+      "name": "sweety",
+      "email": "sweety@gmail.com",
+      "pass": 8780,
+      "id": 34
+    },
+    {
+      "name": "shubhum",
+      "email": "shubhum@gmail.com",
+      "pass": 9020,
+      "id": 35
+    },
+    {
+      "name": "karan",
+      "email": "karan@gmail.com",
+      "pass": 3804,
+      "id": 36
+    },
+    {
+      "name": "abhi",
+      "email": "abhi@gmail.com",
+      "pass": 2928,
+      "id": 37
+    },
+    {
+      "name": "gaurav",
+      "email": "gaurav@gmail.com",
+      "pass": 4981,
+      "id": 38
+    },
+    {
+      "name": "arti",
+      "email": "arti@gmail.com",
+      "pass": 1933,
+      "id": 39
+    },
+    {
+      "name": "sahil",
+      "email": "sahiil@gmail.com",
+      "pass": 9578,
+      "id": 40
+    }
+  ],
+  "votenow": [
+    {
+      "email": "kajal23@gmail.com",
+      "party": "congress",
+      "dt": "4/8/2023  : 13:57:39",
+      "id": 1
+    },
+    {
+      "email": "kvi13@gmail.com",
+      "party": "nsui",
+      "dt": "4/8/2023  : 18:34:51",
+      "id": 2
+    },
+    {
+      "email": "suraj15@gmail.com",
+      "party": "nsui",
+      "dt": "4/8/2023  : 18:39:8",
+      "id": 3
+    },
+    {
+      "email": "amit16@gmail.com",
+      "party": "ukd",
+      "dt": "4/8/2023  : 18:39:50",
+      "id": 4
+    },
+    {
+      "email": "lucky11@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 18:41:18",
+      "id": 5
+    },
+    {
+      "email": "sumit17@gmail.com",
+      "party": "aryan",
+      "dt": "4/8/2023  : 18:44:13",
+      "id": 6
+    },
+    {
+      "email": "suyansh19@gmail.com",
+      "party": "ukd",
+      "dt": "4/8/2023  : 18:45:11",
+      "id": 7
+    },
+    {
+      "email": "mohit18@gmail.com",
+      "party": "bsp",
+      "dt": "4/8/2023  : 18:45:59",
+      "id": 8
+    },
+    {
+      "email": "pramis20@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 18:47:46",
+      "id": 9
+    },
+    {
+      "email": "sudhu21@gmail.com",
+      "party": "jai ho",
+      "dt": "4/8/2023  : 18:49:18",
+      "id": 10
+    },
+    {
+      "email": "sanjay22@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 18:50:10",
+      "id": 11
+    },
+    {
+      "email": "amisha@gmail.com",
+      "party": "abvp",
+      "dt": "4/8/2023  : 18:50:40",
+      "id": 12
+    },
+    {
+      "email": "anu@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 18:51:28",
+      "id": 13
+    },
+    {
+      "email": "mani@gmail.com",
+      "party": "jai ho",
+      "dt": "4/8/2023  : 18:52:1",
+      "id": 14
+    },
+    {
+      "email": "vikas@gmail.com",
+      "party": "aryan",
+      "dt": "4/8/2023  : 18:52:38",
+      "id": 15
+    },
+    {
+      "email": "akki@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 18:53:1",
+      "id": 16
+    },
+    {
+      "email": "himu@gmail.com",
+      "party": "ukd",
+      "dt": "4/8/2023  : 18:53:44",
+      "id": 17
+    },
+    {
+      "email": "mohan25@gmail.com",
+      "party": "aryan",
+      "dt": "4/8/2023  : 18:54:23",
+      "id": 18
+    },
+    {
+      "email": "ashu32@gmail.com",
+      "party": "abvp",
+      "dt": "4/8/2023  : 18:56:59",
+      "id": 19
+    },
+    {
+      "email": "karan@gmail.com",
+      "party": "abvp",
+      "dt": "4/8/2023  : 21:52:24",
+      "id": 20
+    },
+    {
+      "email": "abhi@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 21:52:51",
+      "id": 21
+    },
+    {
+      "email": "gaurav@gmail.com",
+      "party": "nsui",
+      "dt": "4/8/2023  : 21:53:17",
+      "id": 22
+    },
+    {
+      "email": "sahiil@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 21:56:50",
+      "id": 23
+    },
+    {
+      "email": "nishtha@gmail.com",
+      "party": "abvp",
+      "dt": "4/8/2023  : 21:58:22",
+      "id": 24
+    },
+    {
+      "email": "rasmi@gmail.com",
+      "party": "jai ho",
+      "dt": "4/8/2023  : 21:58:50",
+      "id": 25
+    },
+    {
+      "email": "rachita@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 21:59:13",
+      "id": 26
+    },
+    {
+      "email": "saruli@gmail.com",
+      "party": "aryan",
+      "dt": "4/8/2023  : 21:59:43",
+      "id": 27
+    },
+    {
+      "email": "sheela@gmail.com",
+      "party": "bsp",
+      "dt": "4/8/2023  : 22:0:9",
+      "id": 28
+    },
+    {
+      "email": "akanksha@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 22:0:31",
+      "id": 29
+    },
+    {
+      "email": "gou@gmail.com",
+      "party": "ukd",
+      "dt": "4/8/2023  : 22:0:56",
+      "id": 30
+    },
+    {
+      "email": "tanu@gmail.com",
+      "party": "aryan",
+      "dt": "4/8/2023  : 22:1:25",
+      "id": 31
+    },
+    {
+      "email": "kanchan@gmail.com",
+      "party": "ukd",
+      "dt": "4/8/2023  : 22:1:47",
+      "id": 32
+    },
+    {
+      "email": "priya@gmail.com",
+      "party": "bjp",
+      "dt": "4/8/2023  : 22:2:11",
+      "id": 33
+    },
+    {
+      "email": "sakshi@gmail.com",
+      "party": "bsp",
+      "dt": "4/8/2023  : 22:2:27",
+      "id": 34
+    },
+    {
+      "email": "shubhum@gmail.com",
+      "party": "congress",
+      "dt": "4/8/2023  : 22:7:16",
+      "id": 35
+    },
+    {
+      "email": "sweety@gmail.com",
+      "party": "nsui",
+      "dt": "4/8/2023  : 22:7:43",
+      "id": 36
+    },
+    {
+      "email": "arti@gmail.com",
+      "party": "bsp",
+      "dt": "4/8/2023  : 22:9:42",
+      "id": 37
+    }
+  ],
+  "vinfo": []
+}
